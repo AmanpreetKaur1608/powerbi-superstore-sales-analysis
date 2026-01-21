@@ -58,8 +58,20 @@ This page helps analyze **product-level performance**:
 - Category and sub-category comparison
 - Conditional formatting to highlight profit and loss
 - Filters to analyze specific products
-
 ---
+
+
+## 📷 Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](screenshots/Executive_Dashboard.png)
+
+### Map Analysis
+![Map Analysis](screenshots/Map_Analysis.png)
+
+### Product Detail
+![Product Detail](screenshots/Product_Detail.png)
+
 
 ## ✨ Key Things I Implemented
 - Explored data in **Excel** and identified limitations of formatting-only cleaning
