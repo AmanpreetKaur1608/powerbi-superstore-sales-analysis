@@ -64,13 +64,13 @@ This page helps analyze **product-level performance**:
 ## 📷 Dashboard Preview
 
 ### Executive Dashboard
-![Executive Dashboard](screenshots/Executive_Dashboard.png)
+![Executive Dashboard](screenshots/Executive_Dashboard.png.png)
 
 ### Map Analysis
-![Map Analysis](screenshots/Map_Analysis.png)
+![Map Analysis](screenshots/Map_Analysis.png.png)
 
 ### Product Detail
-![Product Detail](screenshots/Product_Detail.png)
+![Product Detail](screenshots/Product_Detail.png.png)
 
 
 ## ✨ Key Things I Implemented
